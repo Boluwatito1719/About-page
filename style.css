@@ -1,0 +1,14 @@
+*{
+    background-color: skyblue;
+}
+h1{
+    color:pink;
+    font-family: 'Times New Roman', Times, serif;
+}
+p{
+    padding: 20px;
+    margin: 30px;
+}
+img{
+    border: solid 4px black ;
+}
